@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1523570929 source:c:\users\gbcat\downloads\cuatrimestre-1-master (1)\cuatrimestre-1-master\guias\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1523572310 source:c:\users\gbcat\downloads\cuatrimestre-1-master (1)\cuatrimestre-1-master\guias\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523570635 c:\users\gbcat\downloads\cuatrimestre-1-master (1)\cuatrimestre-1-master\guias\tp_1_cascara\funciones.h
+
+1553604299 source:c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\tp 1 de programacion y laboratorio\tp1-tomas-friz-1a-master\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1553604688 source:c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\tp 1 de programacion y laboratorio\tp1-tomas-friz-1a-master\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523643196 c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\tp 1 de programacion y laboratorio\tp1-tomas-friz-1a-master\tp_1_cascara\funciones.h
+
+1553625682 source:c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\tp 1 de programacion y laboratorio\tp1-tomas-friz-1a-master(en prograso)\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1553625545 c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\tp 1 de programacion y laboratorio\tp1-tomas-friz-1a-master(en prograso)\tp_1_cascara\funciones.h
+
+1553624335 source:c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\tp 1 de programacion y laboratorio\tp1-tomas-friz-1a-master(en prograso)\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1553948863 source:c:\users\alumno\desktop\programacion-y-laboratorio-1-master\programacion-y-laboratorio-1-master\tp 1 de programacion y laboratorio\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1553697923 source:c:\users\alumno\desktop\programacion-y-laboratorio-1-master\programacion-y-laboratorio-1-master\tp 1 de programacion y laboratorio\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1553697923 c:\users\alumno\desktop\programacion-y-laboratorio-1-master\programacion-y-laboratorio-1-master\tp 1 de programacion y laboratorio\tp_1_cascara\funciones.h
+
