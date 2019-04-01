@@ -10,7 +10,7 @@
  * \return resultado: obtiene el resultado de la suma de A y B.
  *
  */
-float suma(float A,float B)
+float addition(float A,float B)
 {
     int resultado;
     resultado = A + B;
@@ -24,7 +24,7 @@ float suma(float A,float B)
  * \return resultado: obtiene el resultado de la resta de A y B.
  *
  */
-float resta(float A,float B)
+float substraction(float A,float B)
 {
     float resultado;
     resultado = A - B;
@@ -53,7 +53,7 @@ float division(float A,float B)
  * \return resultado: obtiene el resultado de la multiplicación de A y B.
  *
  */
-float multiplicacion(float A,float B)
+float multiplication(float A,float B)
 {
     float resultado;
     resultado = A * B;

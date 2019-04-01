@@ -1,13 +1,13 @@
 #ifndef FUNCIONES_H_INCLUDED
 #define FUNCIONES_H_INCLUDED
 
-float suma(float A,float B);
+float addition(float A,float B);
 
-float resta(float A,float B);
+float substraction(float A,float B);
 
 float division(float A,float B);
 
-float multiplicacion(float A,float B);
+float multiplication(float A,float B);
 
 int factorial1(int A);
 
