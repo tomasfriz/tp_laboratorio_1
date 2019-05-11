@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1557537628 source:c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\tp 2 de programacion y laboratorio\tp 2 de programacion y laboratorio\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"employee.h"
+
+1557532023 c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\tp 2 de programacion y laboratorio\tp 2 de programacion y laboratorio\employee.h
+
+1557532511 source:c:\users\gbcat\onedrive\escritorio\tom¡s\facultad\programacion y laboratorio\tp 2 de programacion y laboratorio\tp 2 de programacion y laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"employee.h"
+
